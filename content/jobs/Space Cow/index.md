@@ -1,5 +1,5 @@
 ---
-date: '2024-08-10'
+date: '2024-06-24'
 title: 'Data Science Intern | LLM Infrastructure and Interoperability'
 company: 'Space Cow LLC'
 location: 'Remote'

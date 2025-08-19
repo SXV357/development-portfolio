@@ -65,16 +65,17 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m an undergraduate Computer Science student with interests in large-scale data-driven web
-        applications and autonomous systems. As part of{' '}
+        I’m an undergraduate Computer Science student with interests in autonomous systems and
+        large-scale data-driven web applications. I currently serve as the Vice President of Hello
+        World - Purdue's largest beginner-friendly hackathon. As part of{' '}
         <a href="https://htfpurdue.org/" target="_blank" rel="noreferrer">
           Hack The Future
         </a>
-        , I'm currently focused on developing an IVR-based order system for{' '}
+        , I recently contributed to developing the backend for an SMS-based order system for{' '}
         <a href="https://www.sharefoodsharelove.org/" target="_blank" rel="noreferrer">
           SFSL Food Pantry
         </a>{' '}
-        to help them efficiently connect with and deliver food to customers.
+        to help them efficiently connect with and deliver food to those in need.
       </p>
     </>
   );

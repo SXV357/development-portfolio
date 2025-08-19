@@ -1,5 +1,5 @@
 ---
-date: '2024-12-18'
+date: '2022-08-29'
 title: 'SRI Web Development Intern | Irrigation Systems & Analytics'
 company: 'PNNL'
 location: 'Remote'

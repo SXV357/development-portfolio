@@ -1,5 +1,5 @@
 ---
-date: '2024-12-18'
+date: '2023-10-15'
 title: 'Development Team Lead | Web Design and Development'
 company: 'Hello World'
 location: 'West Lafayette, IN'

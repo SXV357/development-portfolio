@@ -1,5 +1,5 @@
 ---
-date: '2024-12-18'
+date: '2023-08-21'
 title: 'Data and Software Engineering Researcher | EV Manufacturing Intelligence'
 company: 'The Knudsen Institute'
 location: 'West Lafayette, IN'

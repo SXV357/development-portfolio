@@ -1,9 +1,9 @@
 ---
-date: '2024-12-18'
-title: 'AI Innovation Fellow | Deep Learning Scholar'
+date: '2022-06-06'
+title: 'AI Innovation Fellow | Foundations & Deep Learning'
 company: 'Inspirit AI'
 location: 'Remote'
-range: 'August 2022 - Present'
+range: 'June 2022 - August 2022'
 url: 'https://www.inspiritai.com/returning-students-deep-dives'
 ---
 

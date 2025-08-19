@@ -1,5 +1,5 @@
 ---
-date: '2024-12-18'
+date: '2024-08-19'
 title: 'Undergraduate Data Science Researcher | Telematics Analytics'
 company: 'Caterpillar'
 location: 'West Lafayette, IN'

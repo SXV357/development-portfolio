@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Java', 'JavaScript', 'Node.js', 'SQL', 'C/x86-64 Assembly'];
+  const skills = ['Python', 'JavaScript', 'Node.js', 'Kubernetes', 'Pytest', 'SQL'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,10 +136,10 @@ const About = () => {
           <div>
             <p>
               Hi! I'm Shreyas, a computer science major at Purdue University. My passion for
-              computer science was ignited when I first began learning Python and developed a
-              graphics-based command-line version of hangman. One thing that stood out to me through
-              this process was the idea of developing highly efficient and scalable algorithms to
-              tackle real-world problems.
+              computer science was ignited when I took part in the Inspirit AI Scholars program and
+              worked on developing a deep learning-based object detection system. One thing that
+              stood out to me through this process was the idea of developing highly efficient and
+              scalable algorithms to tackle real-world problems.
             </p>
 
             <p>
@@ -159,20 +159,19 @@ const About = () => {
               </a>
               , where I contributed to a platform for developers to rapidly develop chatbot
               applications, and{' '}
-              <a href="https://htfpurdue.org/" target="_blank" rel="noreferrer">
-                Hack The Future
+              <a href="https://www.deere.com/en/" target="_blank" rel="noreferrer">
+                John Deere
               </a>
-              , where I'm working towards building an IVR-based system for SFSL Food Pantry to
-              efficiently connect with and deliver food to those in need.
+              , where I leveraged an AI agent to automate the troubleshooting process for anomalies
+              with network devices.
             </p>
 
             <p>
-              My ultimate goal is to not only contribute to the field as a computer vision engineer,
-              specifically in developing advanced algorithms for autonomous vehicles, but also
-              improve my ability to tackle algorithmic problems in a systematic manner.
+              My ultimate goal is to contribute to the field as a computer vision engineer and
+              develop algorithms for autonomous vehicles that help ensure safety and reliability.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies I’ve worked with recently:</p>
           </div>
 
           <ul className="skills-list">
