@@ -4,7 +4,7 @@ title: 'Development Team Lead | Web Design and Development'
 company: 'Hello World'
 location: 'West Lafayette, IN'
 range: 'October 2023 - October 2024'
-url: 'https://www.hello-world-2024.com/'
+url: 'https://hello-world-2024.vercel.app/'
 ---
 
 - Served as a member of the executive board for Hello World, Purdue's largest 24-hour beginner-friendly hackathon, attracting 300+ participants annually.

@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Online Product Marketplace'
 cover: './demo.png'
 github: 'https://github.com/SXV357/CS-180-Project5'

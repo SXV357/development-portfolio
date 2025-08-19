@@ -7,10 +7,6 @@ module.exports = {
       url: 'https://github.com/SXV357',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/shreyas_viswanathan/',
-    },
-    {
       name: 'Twitter',
       url: 'https://twitter.com/Shreyas91804735',
     },

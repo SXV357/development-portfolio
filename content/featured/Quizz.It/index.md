@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Quizz.It'
 cover: './demo.png'
 github: 'https://github.com/SXV357/Quizz.It'
